@@ -1,0 +1,9 @@
+[
+    { "caption": "Source Code Structure Navigator",                "command": "source_code_structure_navigator" },
+    { "caption": "Source Code Structure Navigator (Swift classes + functions)",        "command": "source_code_structure_navigator", "args": {"type": "swift-functions swift-classes"} },
+    { "caption": "Source Code Structure Navigator (Obj-C pragma marks)", "command": "source_code_structure_navigator", "args": {"type": "objc-pragma-marks"} },
+    { "caption": "Source Code Structure Navigator (Obj-C methods)",      "command": "source_code_structure_navigator", "args": {"type": "objc-class-methods objc-instance-methods"} },
+    { "caption": "Source Code Structure Navigator (Obj-C class interfaces)",      "command": "source_code_structure_navigator", "args": {"type": "objc-class-interfaces"} },
+    { "caption": "Source Code Structure Navigator (Obj-C class implementations)",      "command": "source_code_structure_navigator", "args": {"type": "objc-class-implementations"} },
+    { "caption": "Source Code Structure Navigator (Obj-C classes: @interfaces + @implementations)",      "command": "source_code_structure_navigator", "args": {"type": "objc-class-interfaces objc-class-implementations"} }
+]

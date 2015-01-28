@@ -1,0 +1,4 @@
+[
+    // @@TODO: this isn't working
+    //{ "keys": ["super+i"], "command": "show_overlay", "args": {"overlay": "command_palette", "text": "Source Code Structure Navigator "} },
+]
